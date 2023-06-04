@@ -4,7 +4,7 @@
 
 http://localhost:8080/backend/page/login/login.html
 
-![image-20230604154940690](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604154940690.png)
+![image-20230604154940690](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604154940690.png)
 
 + 登录账号
 
@@ -14,7 +14,7 @@ http://localhost:8080/backend/page/login/login.html
 
 ## 2.管理后台
 
-![image-20230604155007651](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604155007651.png)
+![image-20230604155007651](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604155007651.png)
 
 
 
@@ -62,7 +62,7 @@ http://localhost:8080/front/page/login.html
 
 开启网页适配模式
 
-![image-20230604160954995](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604160954995.png)
+![image-20230604160954995](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604160954995.png)
 
 ## 2.功能
 
@@ -78,22 +78,22 @@ http://localhost:8080/front/page/login.html
 
 1.添加地址并设置默认地址
 
-![image-20230604162650648](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604162650648.png)
+![image-20230604162650648](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604162650648.png)
 
 2.添加购物车（选择商品规格）
 
-![image-20230604162458549](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604162458549.png)
+![image-20230604162458549](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604162458549.png)
 
 3.去结算（跳转确定页面）
 
-![image-20230604162527436](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604162527436.png)
+![image-20230604162527436](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604162527436.png)
 
 4.去支付（支付 = 下单 + 结算）
 
-![image-20230604162611365](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604162611365.png)
+![image-20230604162611365](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604162611365.png)
 
 5.查看订单状态
 
 已下单（刚下单） 正在配送（正在配送） 已完成（配送完成）
 
-![image-20230604162903772](C:\Users\Likejin\AppData\Roaming\Typora\typora-user-images\image-20230604162903772.png)
+![image-20230604162903772](https://github.com/likejin123/Likedelivery/blob/master/images/image-20230604162903772.png)
